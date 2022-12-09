@@ -1,0 +1,15 @@
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\obj\Debug\net7.0\PPM.Main.csproj.AssemblyReference.cache
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\obj\Debug\net7.0\PPM.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\obj\Debug\net7.0\PPM.Main.AssemblyInfoInputs.cache
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\obj\Debug\net7.0\PPM.Main.AssemblyInfo.cs
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\obj\Debug\net7.0\PPM.Main.csproj.CoreCompileInputs.cache
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\bin\Debug\net7.0\PPM.Main.exe
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\bin\Debug\net7.0\PPM.Main.deps.json
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\bin\Debug\net7.0\PPM.Main.runtimeconfig.json
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\bin\Debug\net7.0\PPM.Main.dll
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\bin\Debug\net7.0\PPM.Main.pdb
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\obj\Debug\net7.0\PPM.Main.dll
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\obj\Debug\net7.0\refint\PPM.Main.dll
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\obj\Debug\net7.0\PPM.Main.pdb
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\obj\Debug\net7.0\PPM.Main.genruntimeconfig.cache
+C:\Users\SPasapula\ProlificsProjectManagement\PPM.Main\obj\Debug\net7.0\ref\PPM.Main.dll
